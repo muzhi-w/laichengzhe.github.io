@@ -14,7 +14,9 @@ redirect_from:
 
 目前担任 *Peer-to-Peer Networking and Applications* 副主编（Associate Editor）、《通信学报》第一届青年编委、《网络与信息安全学报》第一届青年编委、《西安邮电大学学报》编委。曾获西安邮电大学 2021 年“十佳研究生导师”称号。主持国家自然科学基金面上项目、青年项目及多项省部级科研项目，在网络与信息安全、车联网安全、认证协议、隐私保护等方向持续开展研究。
 
-My research interests include applied cryptography, authentication protocol design and analysis, vehicular network security, UAV communication security, and data security.
+# 🎓 Prospective Students
+
+欢迎对应用密码学、认证协议、车联网安全、无人机通信安全与数据安全等方向感兴趣的本科生、硕士研究生和博士研究生与我联系。课题组长期欢迎具有扎实数学基础、良好编程能力、较强科研兴趣和认真踏实态度的同学加入。
 
 # 🔬 Research Interests
 - 应用密码学
@@ -78,4 +80,4 @@ My research interests include applied cryptography, authentication protocol desi
 - 待补充
 
 # 📮 Contact
-- Email: [lcz_xupt@163.com](mailto:lcz_xupt@163.com)
+- Email: lcz_xupt@163.com
