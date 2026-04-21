@@ -34,8 +34,8 @@ My research interests include applied cryptography, authentication protocol desi
 - 陕西省信息网络安全协会密码应用专业委员会委员
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 xxx论文被TIFS录取.
-- *2025.06*: &nbsp;🎉🎉 xxx学生收到华为offer.
+- *2026.06*: &nbsp;🎉🎉 xxx论文被TIFS录取.
+- *2025.04*: &nbsp;🎉🎉 xxx学生收到华为offer.
 
 # 📂 Selected Projects
 - *2019*：面向 5G 应用的车联网安全与隐私保护关键技术研究（国家自然科学基金面上项目）
@@ -45,24 +45,20 @@ My research interests include applied cryptography, authentication protocol desi
 - *2025*：C-V2X 安全关键技术研究及应用（西安市中青年科技创新领军人才项目）
 
 # 📝 Publications
-
-## Journal Articles
-1. **A Novel Authentication Scheme Supporting Multiple User Access for 5G and Beyond**. *IEEE Transactions on Dependable and Secure Computing*, 2023. `CCF A / SCI, EI`
-2. **DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond**. *IEEE Transactions on Dependable and Secure Computing*, 2025. `CCF A / SCI, EI`
-3. **Traceable Access Control Encryption With Parallel Multiple Sanitizers**. *IEEE Transactions on Information Forensics and Security*, 2025. `CCF A / SCI, EI`
-4. **SecCDV: A Security Reference Architecture for Cybertwin-Driven 6G V2X**. *IEEE Transactions on Vehicular Technology*, 2022. `CCF 未收录 / SCI, EI`
-5. **pdRide: Privacy-Preserving Distributed Online Ride-Hailing Matching Scheme**. *IEEE Transactions on Intelligent Transportation Systems*, 2023. `CCF 未收录`
-6. **Searchable Encryption With Autonomous Path Delegation Function and Its Application in Healthcare Cloud**. *IEEE Transactions on Cloud Computing*, 2023. `CCF C / SCI, EI`
-7. **Privacy-Preserving Medical Data Sharing Scheme Based on Two-Party Cloud-Assisted PSI**. *IEEE Internet of Things Journal*, 2024. `CCF C / SCI, EI`
-8. **A Novel Authentication and Key Agreement Scheme for In-Vehicle Networks**. *IEEE Transactions on Vehicular Technology*, 2025. `CCF 未收录 / SCI, EI`
-9. **基于卷积神经网络的车载数字孪生持续认证方案**. *通信学报*. `CCF 计算领域高质量科技期刊分级目录 T1 / EI`
-
-## Conference and Workshop Papers
-1. **GAN Augmentation-Based Continuous Authentication for Vehicular Digital Twin**. *IEEE International Conference on Communications (IEEE ICC)*, 2024-06. `通信顶会, CCF C`
-2. **A PUF-Based Authentication and Key Distribution Scheme for In-Vehicle Network**. *IEEE International Conference on Communications (IEEE ICC)*, 2023-05. `通信顶会, CCF C`
-3. **Group-Based Handover Authentication for Space-Air-Ground Integrated Vehicular Networks**. *IEEE International Conference on Communications (IEEE ICC)*, 2021-06. `通信顶会, CCF C`
-4. **Platoon Handover Authentication in 5G-V2X**. *IEEE CNS Poster*, 2020-06.
-5. **A Bilingual Multi-Type Spam Detection Model Based on M-BERT**. *IEEE Global Communications Conference (IEEE GLOBECOM)*, 2020-12. `通信顶会, CCF C`
+1. **DTHA: A Digital Twin-Assisted Handover Authentication Scheme for 5G and Beyond**. *IEEE Transactions on Dependable and Secure Computing*, 2025. `CCF A`
+2. **Traceable Access Control Encryption With Parallel Multiple Sanitizers**. *IEEE Transactions on Information Forensics and Security*, 2025. `CCF A`
+3. **A Novel Authentication and Key Agreement Scheme for In-Vehicle Networks**. *IEEE Transactions on Vehicular Technology*, 2025.
+4. **Privacy-Preserving Medical Data Sharing Scheme Based on Two-Party Cloud-Assisted PSI**. *IEEE Internet of Things Journal*, 2024. `CCF C`
+5. **GAN Augmentation-Based Continuous Authentication for Vehicular Digital Twin**. *IEEE International Conference on Communications (IEEE ICC)*, 2024-06. `通信顶会, CCF C`
+6. **A Novel Authentication Scheme Supporting Multiple User Access for 5G and Beyond**. *IEEE Transactions on Dependable and Secure Computing*, 2023. `CCF A`
+7. **pdRide: Privacy-Preserving Distributed Online Ride-Hailing Matching Scheme**. *IEEE Transactions on Intelligent Transportation Systems*, 2023.
+8. **Searchable Encryption With Autonomous Path Delegation Function and Its Application in Healthcare Cloud**. *IEEE Transactions on Cloud Computing*, 2023. `CCF C`
+9. **A PUF-Based Authentication and Key Distribution Scheme for In-Vehicle Network**. *IEEE International Conference on Communications (IEEE ICC)*, 2023-05. `通信顶会, CCF C`
+10. **SecCDV: A Security Reference Architecture for Cybertwin-Driven 6G V2X**. *IEEE Transactions on Vehicular Technology*, 2022.
+11. **Group-Based Handover Authentication for Space-Air-Ground Integrated Vehicular Networks**. *IEEE International Conference on Communications (IEEE ICC)*, 2021-06. `通信顶会, CCF C`
+12. **基于卷积神经网络的车载数字孪生持续认证方案**. *通信学报*, 2021. `CCF 计算领域高质量科技期刊分级目录 T1 / EI`
+13. **A Bilingual Multi-Type Spam Detection Model Based on M-BERT**. *IEEE Global Communications Conference (IEEE GLOBECOM)*, 2020-12. `通信顶会, CCF C`
+14. **Platoon Handover Authentication in 5G-V2X**. *IEEE CNS Poster*, 2020-06.
 
 # 🎖 Honors and Awards
 - *2025* 中国发明协会发明创业奖创新奖二等奖（智慧医疗服务平台安全关键技术研究及应用）
